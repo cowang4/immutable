@@ -1,5 +1,5 @@
-# immutable package
+# immutable
 
-A short description of your package.
+Code with confidence and precision! You don't need to delete things if you write them correct the first time! This Atom plugin disables the backspace and delete keys, to help you build your skills.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Of course, to toggle to (lame) mutable mode you can press `Ctrl-Backspace`.
