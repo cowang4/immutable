@@ -1,0 +1,9 @@
+{
+  "atom-workspace atom-text-editor": {
+    "ctrl-backspace": "immutable:toggle"
+  },
+  "body": {
+    "backspace": "immutable:backspace",
+    "delete": "immutable:delete"
+  }
+}

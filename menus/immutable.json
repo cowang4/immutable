@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle immutable",
+        "command": "immutable:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "immutable",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "immutable:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
