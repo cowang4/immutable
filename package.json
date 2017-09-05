@@ -1,7 +1,7 @@
 {
   "name": "immutable",
   "main": "./lib/immutable",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Disable backspace and delete keys!",
   "keywords": [
   ],
